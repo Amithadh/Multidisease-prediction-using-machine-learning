@@ -35,7 +35,7 @@ To use this project locally, follow these steps:
 1. Clone the repository:
    
 ```bash
-git clone (https://github.com/Amit380/Multiple-Disease-Prediction-System-using-Machine-Learning/tree/main)
+git clone (https://github.com/Amithadh/Multidisease-prediction-using-machine-learning.git)
 ```
 
 2. Install the required dependencies by running:
